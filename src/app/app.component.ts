@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { ManagementService } from './management.service';
+import { ManagementService } from '../../projects/angular-test-simple-lib/src/lib/management.service';
 
 @Component({
   selector: 'app-root',

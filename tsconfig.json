@@ -17,6 +17,14 @@
     "lib": [
       "es2018",
       "dom"
-    ]
+    ],
+    "paths": {
+      "angular-test-simple-lib": [
+        "dist/angular-test-simple-lib"
+      ],
+      "angular-test-simple-lib/*": [
+        "dist/angular-test-simple-lib/*"
+      ]
+    }
   }
 }
